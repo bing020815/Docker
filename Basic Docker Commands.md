@@ -9,7 +9,7 @@ The basic commands for Docker
 
 ### The Basics
 
-In order to use Docker, you must have Docker installed. To check the Docker options:
+In order to use Docker, you must have [Docker](https://www.docker.com/get-started) installed. To check the Docker options:
 ```
 $ docker
 ```
