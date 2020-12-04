@@ -1,0 +1,10 @@
+# Docker File example
+version: '3.1'
+
+services:
+  upyter:
+    image: jupyter/datascience-notebook
+    ports:
+      - 8888:8888
+    volumes:
+      - ./data/:/home/jovyan/
