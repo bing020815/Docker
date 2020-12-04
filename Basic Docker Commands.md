@@ -165,7 +165,7 @@ To remove a **container**:
 docker-compose down
 ```
 
-* It first stop the **container**, and then remove the **container**
+* It first stops the **container**, and then removes the **container**
 
 <br>
 
